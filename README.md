@@ -27,9 +27,13 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 # Packages used 
 
 • MongoDB
+
 • Mongoose
+
 • Node.js
+
 • Express.js
+
 • Moment.js 
 
 
