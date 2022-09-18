@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,8 @@
   "homepage": "https://github.com/diegorodd/Social-Network-API#readme",
   "dependencies": {
     "express": "^4.18.1",
-    "node-modules": "^1.0.1"
+    "moment": "^2.29.4",
+    "node-modules": "^1.0.1",
+    "package-json": "^8.1.0"
   }
 }
